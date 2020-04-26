@@ -1,0 +1,89 @@
+{
+  "monstros": [
+    { 
+      "id": 1, 
+      "nome": "Hagamon", 
+      "tipos": ["Fogo"],
+      "descricao": "Hagamon é um monstrinho travesso e muito quente!",
+      "altura": 0.6,
+      "peso": 5.6,
+      "habilidades": ["Bafo de fogo", "Chuva de fogo"]
+    },
+    { 
+      "id": 2, 
+      "nome": "Kopomon", 
+      "tipos": ["Água", "Voador"],
+      "descricao": "Kopomon é um peixe voador que ataca com bolhas d'água!",
+      "altura": 0.4,
+      "peso": 2.5,
+      "habilidades": ["Bolha d'água", "Defesa rígida", "Nadadeiras cortantes"]
+    },
+    { 
+      "id": 3, 
+      "nome": "Tapormon", 
+      "tipos": ["Terra", "Pedra"],
+      "descricao": "Tapormon transforma tudo que toca em pedra!",
+      "altura": 1.4,
+      "peso": 25.4,
+      "habilidades": ["Toque petrificante", "Defesa rígida"]
+    },
+    { 
+      "id": 4, 
+      "nome": "Lutiermon", 
+      "tipos": ["Voador", "Psíquico"],
+      "descricao": "Lutiermon usa de ondas de ventos psíquicos para acabar com seus adversários!",
+      "altura": 1.2,
+      "peso": 8.4,
+      "habilidades": ["Vento psíquico", "Onda psíquica"]
+    },
+    { 
+      "id": 5, 
+      "nome": "Popermon", 
+      "tipos": ["Fogo", "Pedra"],
+      "descricao": "Um monstrinho de lava e explosão!",
+      "altura": 0.9,
+      "peso": 7.5,
+      "habilidades": ["Explosão de lava", "Defesa rígida"]
+    },
+    { 
+      "id": 6, 
+      "nome": "Gigamon", 
+      "tipos": ["Planta"],
+      "descricao": "Gigamon parece uma grande árvore viva!",
+      "altura": 6.2,
+      "peso": 50.1,
+      "habilidades": ["Folha navalha", "Cipó vigoroso", "Semente da cura"]
+    },
+    { 
+      "id": 7, 
+      "nome": "Viretemon", 
+      "tipos": ["Fogo", "Voador"],
+      "descricao": "Um monstro fênix!",
+      "altura": 2.4,
+      "peso": 18.4,
+      "habilidades": ["Bafo de fogo", "Ventos da fênix", "Ressurgimento das cinzas"]
+    },
+  ],
+  "lideres": [
+    {
+      "id": 1,
+      "nome": "Buter Bimi",
+      "titulo": "O grande campeão do torneio!"
+    },
+    {
+      "id": 2,
+      "nome": "Juria Manete",
+      "titulo": "A mestra dos monstros de fogo!"
+    },
+  ],
+  "medalhas": [
+    { 
+      "id": 1, 
+      "nome": "Grande campeão do fogo", 
+    },
+    { 
+      "id": 2, 
+      "nome": "Grande manipulador do ar", 
+    },
+  ],
+}
