@@ -62,7 +62,7 @@
       "altura": 2.4,
       "peso": 18.4,
       "habilidades": ["Bafo de fogo", "Ventos da fênix", "Ressurgimento das cinzas"]
-    },
+    }
   ],
   "lideres": [
     {
@@ -74,16 +74,16 @@
       "id": 2,
       "nome": "Juria Manete",
       "titulo": "A mestra dos monstros de fogo!"
-    },
+    }
   ],
   "medalhas": [
     { 
       "id": 1, 
-      "nome": "Grande campeão do fogo", 
+      "nome": "Grande campeão do fogo"
     },
     { 
       "id": 2, 
-      "nome": "Grande manipulador do ar", 
-    },
-  ],
+      "nome": "Grande manipulador do ar"
+    }
+  ]
 }
